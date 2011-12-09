@@ -1,0 +1,10 @@
+
+_-1_1__2____4+__by_blah.nng
+012__3_567__by_jag27real.jpg
+jdsfaf_by.wmv
+9876_321_by_babylon_15dl-d2z37kt.jpg
+babylon-15dl.png
+-4_13_69__by_babylon_15dl-d31elii.png
+jstarr5b.jpg
+
+// number to test hard coded. Also, don't try one with a space since the fileReader will treat them as separate entries
